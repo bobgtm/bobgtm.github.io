@@ -1,1 +1,12 @@
-I am just *testing* something
+= *My* Journey
+Bobby G. 
+
+:toc: left
+
+== Golang
+
+Recipes I'm using to cook up some Go skills
+
+== Ops
+
+Tooling skills to help me configure and manage systems
